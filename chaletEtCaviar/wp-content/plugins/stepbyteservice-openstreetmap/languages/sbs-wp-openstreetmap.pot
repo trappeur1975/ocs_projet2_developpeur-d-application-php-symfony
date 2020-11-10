@@ -1,0 +1,202 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-09-04 16:40+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;i18n.__\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/openstreetmap-block.js:12
+msgid "map"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:13
+msgid "leaflet"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:135
+#: includes/sbs-openstreetmap-wpbakery.php:38
+#: includes/sbs-openstreetmap-wpbakery.php:53
+#: includes/sbs-openstreetmap-wpbakery.php:68
+#: includes/sbs-openstreetmap-wpbakery.php:89
+#: includes/sbs-openstreetmap-wpbakery.php:99
+#: includes/sbs-openstreetmap-wpbakery.php:106
+#: includes/sbs-openstreetmap-wpbakery.php:113
+msgid "Map"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:139
+#: includes/sbs-openstreetmap-wpbakery.php:36
+msgid "Map Style"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:157
+#: includes/sbs-openstreetmap-wpbakery.php:51
+msgid "Map Height in Relation to Width"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:173
+#: includes/sbs-openstreetmap-wpbakery.php:66
+msgid "Zoom Level"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:184
+#: includes/sbs-openstreetmap-wpbakery.php:87
+msgid "Zoom With CTRL-Key Only"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:193
+#: includes/sbs-openstreetmap-wpbakery.php:96
+msgid "Latitude of the Map's Center"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:194 assets/js/openstreetmap-block.js:205
+#: includes/sbs-openstreetmap-wpbakery.php:98
+#: includes/sbs-openstreetmap-wpbakery.php:105
+msgid "Only needed if marker is not the center of the map"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:204
+#: includes/sbs-openstreetmap-wpbakery.php:103
+msgid "Longitude of the Map's Center"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:215
+#: includes/sbs-openstreetmap-wpbakery.php:110
+msgid "Show Attribution"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:216
+#: includes/sbs-openstreetmap-wpbakery.php:112
+msgid "Attributions for content providers are shown as links on the bottom right corner of the map. If you disable the checkbox please consider the legal circumstances."
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:226
+#: includes/sbs-openstreetmap-wpbakery.php:124
+#: includes/sbs-openstreetmap-wpbakery.php:136
+#: includes/sbs-openstreetmap-wpbakery.php:145
+#: includes/sbs-openstreetmap-wpbakery.php:154
+#: includes/sbs-openstreetmap-wpbakery.php:160
+#: includes/sbs-openstreetmap-wpbakery.php:174
+#: includes/sbs-openstreetmap-wpbakery.php:181
+#: includes/sbs-openstreetmap-wpbakery.php:196
+msgid "Marker"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:229
+#: includes/sbs-openstreetmap-wpbakery.php:122
+msgid "Determine Position By"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:232 assets/js/openstreetmap-block.js:242
+#: includes/sbs-openstreetmap-wpbakery.php:126
+#: includes/sbs-openstreetmap-wpbakery.php:133
+msgid "Address"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:233
+#: includes/sbs-openstreetmap-wpbakery.php:127
+msgid "Coordinates"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:251
+#: includes/sbs-openstreetmap-wpbakery.php:142
+msgid "Latitude"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:261
+#: includes/sbs-openstreetmap-wpbakery.php:151
+msgid "Longitude"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:271
+#: includes/sbs-openstreetmap-wpbakery.php:158
+msgid "Center Map on Marker"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:451
+msgid "Show From All"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:452
+msgid "Search Icons"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:453
+msgid "No Icons Found"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:454
+msgid "Select Icon"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:457
+#: includes/sbs-openstreetmap-wpbakery.php:179
+msgid "Marker Color"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:460
+#: includes/sbs-openstreetmap-wpbakery.php:183
+msgid "Red"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:461
+#: includes/sbs-openstreetmap-wpbakery.php:184
+msgid "White"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:462
+#: includes/sbs-openstreetmap-wpbakery.php:185
+msgid "Blue"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:463
+#: includes/sbs-openstreetmap-wpbakery.php:186
+msgid "Green"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:464
+#: includes/sbs-openstreetmap-wpbakery.php:187
+msgid "Black"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:465
+#: includes/sbs-openstreetmap-wpbakery.php:188
+msgid "Orange"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:466
+#: includes/sbs-openstreetmap-wpbakery.php:189
+msgid "Yellow"
+msgstr ""
+
+#: assets/js/openstreetmap-block.js:475
+#: includes/sbs-openstreetmap-wpbakery.php:194
+msgid "Popup Text"
+msgstr ""
+
+#: includes/sbs-openstreetmap-wpbakery.php:27
+msgid "SBS OpenStreetMap"
+msgstr ""
+
+#: includes/sbs-openstreetmap-wpbakery.php:30
+msgid "Configurable OpenStreetMap module"
+msgstr ""
+
+#: includes/sbs-openstreetmap-wpbakery.php:91
+#: includes/sbs-openstreetmap-wpbakery.php:115
+#: includes/sbs-openstreetmap-wpbakery.php:162
+msgid "Yes"
+msgstr ""
+
+#: includes/sbs-openstreetmap-wpbakery.php:169
+msgid "Marker icon"
+msgstr ""
